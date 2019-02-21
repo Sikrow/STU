@@ -1,2 +1,1 @@
-# STU
-Skole-projekt 
+Springbræt-Aarhus
